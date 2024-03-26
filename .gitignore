@@ -2,3 +2,4 @@ tokens
 wn_tagged
 text.csv
 lemmatised
+trained_NB.pickle
