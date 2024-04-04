@@ -3,3 +3,4 @@ wn_tagged
 text.csv
 lemmatised
 trained_NB.pickle
+trained_NB_2.pickle
