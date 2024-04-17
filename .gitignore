@@ -4,3 +4,5 @@ text.csv
 lemmatised
 trained_NB.pickle
 trained_NB_2.pickle
+trained_tfidf_NB.pickle
+tfidf_2.pickle
